@@ -75,7 +75,7 @@ Target: **networkwalks.com**
 whois networkwalks.com
 ```
 
-![WHOIS](screenshots/whois%20sec.png))
+![WHOIS](screenshots/whois%20sec.png)
 
 **Results**
 - Registrar: GoDaddy.com, LLC
