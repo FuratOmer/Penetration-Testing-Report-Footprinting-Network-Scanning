@@ -152,7 +152,8 @@ wafw00f networkwalks.com
 
 ![Wafw00f](screenshots/wafw00f%20sec.png)
 
-**Result:** The site is behind **ModSecurity (SpiderLabs)** WAF
+**Result:** The site is behind **ModSecurity (SpiderLabs)** WAF.
+
 ---
 
 ## 6. DNSRecon: DNS enumeration
