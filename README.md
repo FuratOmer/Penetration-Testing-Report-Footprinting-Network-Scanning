@@ -1,10 +1,5 @@
 # 🛡️ Penetration Testing Report: Footprinting & Network Scanning
 
-![Phases](https://img.shields.io/badge/Phases-Recon%20%26%20Scanning-red)
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Scanner](https://img.shields.io/badge/Scanner-Nmap%20%2F%20Zenmap-blue)
-![Scope](https://img.shields.io/badge/Scope-Authorized%20Only-green)
-![Internship](https://img.shields.io/badge/Internship-Network%20Walks-orange)
 
 **W2-PM-FINAL | Cybersecurity | Networkwalks**
 
